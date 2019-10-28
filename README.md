@@ -1,2 +1,2 @@
 # TemplateExpress
-Express + React + Redux + Code Splitting + Webpack + Eslint
+Express + React + Redux + Code Splitting + Webpack + Eslint + Jest
