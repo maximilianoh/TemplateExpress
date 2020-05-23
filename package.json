@@ -34,6 +34,7 @@
     "webpack-hot-middleware": "^2.25.0"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@loadable/webpack-plugin": "^5.12.0",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",
@@ -45,6 +46,19 @@
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.20.0"
+=======
+    "@loadable/webpack-plugin": "^5.7.1",
+    "babel-eslint": "^10.0.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-react-app": "^9.1.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-loader": "^3.0.3",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.17.0"
+>>>>>>> 21c5dd45f04ec5e2f8d3943ce65ddc9438be4d07
   },
   "jest": {
     "rootDir": "./test",
