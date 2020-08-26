@@ -12,14 +12,14 @@
   "license": "ISC",
   "dependencies": {
     "@loadable/component": "^5.12.0",
-    "axios": "^0.19.2",
+    "axios": "^0.20.0",
     "cors": "^2.8.5",
     "enzyme": "^3.11.0",
-    "enzyme-adapter-react-16": "^1.15.2",
+    "enzyme-adapter-react-16": "^1.15.3",
     "express": "^4.17.1",
-    "html-webpack-plugin": "^3.2.0",
-    "jest": "^24.9.0",
-    "open": "^7.0.4",
+    "html-webpack-plugin": "^4.3.0",
+    "jest": "^26.4.2",
+    "open": "^7.2.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -34,31 +34,17 @@
     "webpack-hot-middleware": "^2.25.0"
   },
   "devDependencies": {
-<<<<<<< HEAD
-    "@loadable/webpack-plugin": "^5.12.0",
+    "@loadable/webpack-plugin": "^5.13.0",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",
     "babel-preset-react-app": "^9.1.2",
     "dotenv": "^8.2.0",
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb": "^18.1.0",
-    "eslint-loader": "^3.0.4",
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-import": "^2.20.2",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-react": "^7.20.0"
-=======
-    "@loadable/webpack-plugin": "^5.7.1",
-    "babel-eslint": "^10.0.3",
-    "babel-loader": "^8.0.6",
-    "babel-preset-react-app": "^9.1.0",
-    "dotenv": "^8.2.0",
-    "eslint": "^6.7.2",
-    "eslint-config-airbnb": "^18.0.1",
-    "eslint-loader": "^3.0.3",
-    "eslint-plugin-import": "^2.19.1",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.17.0"
->>>>>>> 21c5dd45f04ec5e2f8d3943ce65ddc9438be4d07
   },
   "jest": {
     "rootDir": "./test",
