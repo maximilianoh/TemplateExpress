@@ -16,7 +16,7 @@
     "cors": "^2.8.5",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "html-webpack-plugin": "^4.3.0",
     "jest": "^26.4.2",
     "open": "^7.2.0",
